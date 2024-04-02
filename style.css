@@ -6,6 +6,12 @@
 body{
     background: #250057;
 }
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .input-box{
     background: #fff;
     width: 90%;
@@ -15,6 +21,7 @@ body{
     margin: 300px auto;
     display: flex;
     align-items: center;
+    
    
 
 }

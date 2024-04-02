@@ -1,5 +1,7 @@
 let eyeicon = document.getElementById("eyeicon");
 let password = document.getElementById("password");
+let inputId = document.getElementById("input-id");
+let mainId = document.getElementById("main-id");
 
 const show = () => {
   if (password.type == "password") {
